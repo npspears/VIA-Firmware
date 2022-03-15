@@ -2,7 +2,7 @@
   "name": "CR3WVAN",
   "vendorId": "0x7070",
   "productId": "0x4536",
-  "lighting": "qmk_backlight_rgblight",
+  "lighting": "qmk_rgblight",
   "matrix": { "rows": 8, "cols": 6 },
   "layouts": {
     "labels": [
